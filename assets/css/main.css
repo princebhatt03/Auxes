@@ -18,6 +18,17 @@
   --heading-font: 'Montserrat', sans-serif;
   --nav-font: 'Poppins', sans-serif;
 }
+.btn1 {
+  padding: 7px;
+  background-color: #df1529;
+  color: #ffffff;
+  border: none;
+  border-radius: 5px;
+  transition: all ease-in-out 0.3s;
+}
+.btn1:hover {
+  opacity: 0.7;
+}
 
 /* Global Colors */
 :root {
